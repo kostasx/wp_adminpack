@@ -1,0 +1,15 @@
+.wrap h2 {
+	float: left;			}
+.alignleft h3 {
+	margin: 0;
+	background-color: #DDDDFF;
+	padding: 3px 18px;
+	border-radius: 16px;		}
+.alignright {
+	float: left;
+	margin: 2px 0px 0px 20px;	}
+#template textarea {
+	background: none repeat scroll 0 0 #E0E9EF;
+	color: #000;
+	padding: 20px;			}
+#templateside{	overflow: scroll;	}

@@ -1,0 +1,3 @@
++ Create alternate view for plugins page (Grid)
++ Theme Editor: warn users when another user is currently editing a file
++ Theme Editor: Add Cmd+S shortcut for updating file 
